@@ -1,11 +1,10 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hc2RpIiwiaWQiOiI2MmNiZjUxNGY3ZGE3NTAyZmYyMDZiOWEiLCJpYXQiOjE2NTc1NDI2NjQsImV4cCI6MTY1NzU0NjI2NH0.RsX5vDLhGgn45RX8kngTyvalvjDA7SvN3Ma9MBitTSU
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hc28iLCJpZCI6IjYyY2Q2YzNlNGQ3ZjQ1MzI3Y2IwMTc5MyIsImlhdCI6MTY1NzYyOTc5MSwiZXhwIjoxNjU3NjMzMzkxfQ.mVUuPnGiXmcm5SsmD4BDuZ-7TkkLwRIkef8DLl2QaFk
 
 {
     "title": "nyt on blogssssssssssskliiie",
-    "author": "Romm,m,bert C. Martin",
-    "url": "http:-,-.,.-//blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html",
-    "likes": 123
-
+    "author": "jaakkojoku",
+    "url": "jotaintanne",
+    "likes": 4
 }
