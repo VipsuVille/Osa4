@@ -1,6 +1,6 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hc28iLCJpZCI6IjYyY2Q2YzNlNGQ3ZjQ1MzI3Y2IwMTc5MyIsImlhdCI6MTY1NzYyOTc5MSwiZXhwIjoxNjU3NjMzMzkxfQ.mVUuPnGiXmcm5SsmD4BDuZ-7TkkLwRIkef8DLl2QaFk
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hc2kiLCJpZCI6IjYyY2U4MzhhMDUxNmVmNzJlZWNhMTI3NCIsImlhdCI6MTY1NzcwNTYxOCwiZXhwIjoxNjU3NzA5MjE4fQ.2TaXvxVRXPV31ch_PUYM91OkLnE_yEGOcFLy5DkhAhw
 
 {
     "title": "nyt on blogssssssssssskliiie",
